@@ -72,64 +72,64 @@
     "resources": [
       {
         "alwaysLoaded": false,
-        "file": "space-shooter-assets/space-shooter-assets/player.png",
+        "file": "assets/player.png",
         "kind": "image",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/player.png",
+        "name": "assets/player.png",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "space-shooter-assets/space-shooter-assets/laser_player.png",
+        "file": "assets/laser_player.png",
         "kind": "image",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/laser_player.png",
+        "name": "assets/laser_player.png",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "space-shooter-assets/space-shooter-assets/background.png",
+        "file": "assets/background.png",
         "kind": "image",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/background.png",
+        "name": "assets/background.png",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "space-shooter-assets/space-shooter-assets/enemy1.png",
+        "file": "assets/enemy1.png",
         "kind": "image",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/enemy1.png",
+        "name": "assets/enemy1.png",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "space-shooter-assets/space-shooter-assets/enemy2.png",
+        "file": "assets/enemy2.png",
         "kind": "image",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/enemy2.png",
+        "name": "assets/enemy2.png",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "space-shooter-assets/space-shooter-assets/enemy3.png",
+        "file": "assets/enemy3.png",
         "kind": "image",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/enemy3.png",
+        "name": "assets/enemy3.png",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "space-shooter-assets/space-shooter-assets/laser_enemy.png",
+        "file": "assets/laser_enemy.png",
         "kind": "image",
-        "metadata": "{\"localFilePath\":\"space-shooter-assets/space-shooter-assets/laser_enemy.png\",\"extension\":\".png\"}",
-        "name": "space-shooter-assets/space-shooter-assets/laser_enemy.png",
+        "metadata": "{\"localFilePath\":\"assets/laser_enemy.png\",\"extension\":\".png\"}",
+        "name": "assets/laser_enemy.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -138,125 +138,125 @@
         "file": "assets/space-shooter-assets_space-shooter-assets_laser_enemy.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "space-shooter-assets/space-shooter-assets/laser_enemy",
+        "name": "assets/laser_enemy",
         "smoothed": true,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "space-shooter-assets/space-shooter-assets/meteor_1.png",
+        "file": "assets/meteor_1.png",
         "kind": "image",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/meteor_1.png",
+        "name": "assets/meteor_1.png",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "space-shooter-assets/space-shooter-assets/meteor_2.png",
+        "file": "assets/meteor_2.png",
         "kind": "image",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/meteor_2.png",
+        "name": "assets/meteor_2.png",
         "smoothed": true,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "space-shooter-assets/space-shooter-assets/meteor_3.png",
+        "file": "assets/meteor_3.png",
         "kind": "image",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/meteor_3.png",
+        "name": "assets/meteor_3.png",
         "smoothed": true,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "space-shooter-assets/space-shooter-assets/meteor_4.png",
+        "file": "assets/meteor_4.png",
         "kind": "image",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/meteor_4.png",
+        "name": "assets/meteor_4.png",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "space-shooter-assets/space-shooter-assets/powerup_health.png",
+        "file": "assets/powerup_health.png",
         "kind": "image",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/powerup_health.png",
+        "name": "assets/powerup_health.png",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "space-shooter-assets/space-shooter-assets/powerup_shield.png",
+        "file": "assets/powerup_shield.png",
         "kind": "image",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/powerup_shield.png",
+        "name": "assets/powerup_shield.png",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "space-shooter-assets/space-shooter-assets/player_shield.png",
+        "file": "assets/player_shield.png",
         "kind": "image",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/player_shield.png",
+        "name": "assets/player_shield.png",
         "smoothed": true,
         "userAdded": true
       },
       {
-        "file": "space-shooter-assets/space-shooter-assets/Kenney Future Narrow.ttf",
+        "file": "assets/Kenney Future Narrow.ttf",
         "kind": "font",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/Kenney Future Narrow.ttf",
+        "name": "assets/Kenney Future Narrow.ttf",
         "userAdded": true
       },
       {
-        "file": "space-shooter-assets/space-shooter-assets/soundtrack.ogg",
+        "file": "assets/soundtrack.ogg",
         "kind": "audio",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/soundtrack.ogg",
+        "name": "assets/soundtrack.ogg",
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": true
       },
       {
-        "file": "space-shooter-assets/space-shooter-assets/sfx_laser.ogg",
+        "file": "assets/sfx_laser.ogg",
         "kind": "audio",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/sfx_laser.ogg",
+        "name": "assets/sfx_laser.ogg",
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": true
       },
       {
-        "file": "space-shooter-assets/space-shooter-assets/enemy_explosion.wav",
+        "file": "assets/enemy_explosion.wav",
         "kind": "audio",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/enemy_explosion.wav",
+        "name": "assets/enemy_explosion.wav",
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": true
       },
       {
-        "file": "space-shooter-assets/space-shooter-assets/sfx_shieldUp.ogg",
+        "file": "assets/sfx_shieldUp.ogg",
         "kind": "audio",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/sfx_shieldUp.ogg",
+        "name": "assets/sfx_shieldUp.ogg",
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": true
       },
       {
-        "file": "space-shooter-assets/space-shooter-assets/damage.ogg",
+        "file": "assets/damage.ogg",
         "kind": "audio",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/damage.ogg",
+        "name": "assets/damage.ogg",
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
@@ -274,55 +274,55 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "space-shooter-assets/space-shooter-assets/Glow.png",
+        "file": "assets/Glow.png",
         "kind": "image",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/Glow.png",
+        "name": "assets/Glow.png",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "space-shooter-assets/space-shooter-assets/ExplosionTexture1.png",
+        "file": "assets/ExplosionTexture1.png",
         "kind": "image",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/ExplosionTexture1.png",
+        "name": "assets/ExplosionTexture1.png",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "space-shooter-assets/space-shooter-assets/button_level_1.png",
+        "file": "assets/button_level_1.png",
         "kind": "image",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/button_level_1.png",
+        "name": "assets/button_level_1.png",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "space-shooter-assets/space-shooter-assets/button_level_2.png",
+        "file": "assets/button_level_2.png",
         "kind": "image",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/button_level_2.png",
+        "name": "assets/button_level_2.png",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "space-shooter-assets/space-shooter-assets/button_locked.png",
+        "file": "assets/button_locked.png",
         "kind": "image",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/button_locked.png",
+        "name": "assets/button_locked.png",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "space-shooter-assets/space-shooter-assets/button_level_3.png",
+        "file": "assets/button_level_3.png",
         "kind": "image",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/button_level_3.png",
+        "name": "assets/button_level_3.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -435,10 +435,10 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "space-shooter-assets/space-shooter-assets/finish_line.png",
+        "file": "assets/finish_line.png",
         "kind": "image",
         "metadata": "",
-        "name": "space-shooter-assets/space-shooter-assets/finish_line.png",
+        "name": "assets/finish_line.png",
         "smoothed": true,
         "userAdded": true
       }
@@ -606,7 +606,7 @@
           "effects": [],
           "behaviors": [],
           "string": "Space Shooter",
-          "font": "space-shooter-assets/space-shooter-assets/Kenney Future Narrow.ttf",
+          "font": "assets/Kenney Future Narrow.ttf",
           "textAlignment": "left",
           "characterSize": 80,
           "color": {
@@ -620,7 +620,7 @@
           "height": 32,
           "name": "Background",
           "tags": "",
-          "texture": "space-shooter-assets/space-shooter-assets/background.png",
+          "texture": "assets/background.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
@@ -647,7 +647,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "space-shooter-assets/space-shooter-assets/button_level_1.png",
+                      "image": "assets/button_level_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -688,7 +688,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "space-shooter-assets/space-shooter-assets/button_locked.png",
+                      "image": "assets/button_locked.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -717,7 +717,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "space-shooter-assets/space-shooter-assets/button_level_2.png",
+                      "image": "assets/button_level_2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -758,7 +758,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "space-shooter-assets/space-shooter-assets/button_locked.png",
+                      "image": "assets/button_locked.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -787,7 +787,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "space-shooter-assets/space-shooter-assets/button_level_3.png",
+                      "image": "assets/button_level_3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1441,7 +1441,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "space-shooter-assets/space-shooter-assets/player.png",
+                      "image": "assets/player.png",
                       "points": [
                         {
                           "name": "Fire",
@@ -1476,7 +1476,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "space-shooter-assets/space-shooter-assets/player_shield.png",
+                      "image": "assets/player_shield.png",
                       "points": [
                         {
                           "name": "Fire",
@@ -1529,7 +1529,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "space-shooter-assets/space-shooter-assets/laser_player.png",
+                      "image": "assets/laser_player.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1555,7 +1555,7 @@
           "height": 32,
           "name": "Background",
           "tags": "",
-          "texture": "space-shooter-assets/space-shooter-assets/background.png",
+          "texture": "assets/background.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
@@ -1611,7 +1611,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "space-shooter-assets/space-shooter-assets/enemy1.png",
+                      "image": "assets/enemy1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1711,7 +1711,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "space-shooter-assets/space-shooter-assets/enemy2.png",
+                      "image": "assets/enemy2.png",
                       "points": [
                         {
                           "name": "FirePoint",
@@ -1787,7 +1787,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "space-shooter-assets/space-shooter-assets/enemy3.png",
+                      "image": "assets/enemy3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1819,7 +1819,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "space-shooter-assets/space-shooter-assets/laser_enemy",
+              "name": "assets/laser_enemy",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -1829,7 +1829,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "space-shooter-assets/space-shooter-assets/laser_enemy",
+                      "image": "assets/laser_enemy",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1899,7 +1899,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "space-shooter-assets/space-shooter-assets/meteor_1.png",
+                      "image": "assets/meteor_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1969,7 +1969,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "space-shooter-assets/space-shooter-assets/meteor_2.png",
+                      "image": "assets/meteor_2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2039,7 +2039,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "space-shooter-assets/space-shooter-assets/meteor_3.png",
+                      "image": "assets/meteor_3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2109,7 +2109,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "space-shooter-assets/space-shooter-assets/meteor_4.png",
+                      "image": "assets/meteor_4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2150,7 +2150,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "space-shooter-assets/space-shooter-assets/powerup_health.png",
+                      "image": "assets/powerup_health.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2191,7 +2191,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "space-shooter-assets/space-shooter-assets/powerup_shield.png",
+                      "image": "assets/powerup_shield.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2225,7 +2225,7 @@
           "effects": [],
           "behaviors": [],
           "string": "Score: 0",
-          "font": "space-shooter-assets/space-shooter-assets/Kenney Future Narrow.ttf",
+          "font": "assets/Kenney Future Narrow.ttf",
           "textAlignment": "left",
           "characterSize": 20,
           "color": {
@@ -2247,7 +2247,7 @@
           "effects": [],
           "behaviors": [],
           "string": "Health: 100",
-          "font": "space-shooter-assets/space-shooter-assets/Kenney Future Narrow.ttf",
+          "font": "assets/Kenney Future Narrow.ttf",
           "textAlignment": "left",
           "characterSize": 20,
           "color": {
@@ -2269,7 +2269,7 @@
           "effects": [],
           "behaviors": [],
           "string": "Enemies: 0",
-          "font": "space-shooter-assets/space-shooter-assets/Kenney Future Narrow.ttf",
+          "font": "assets/Kenney Future Narrow.ttf",
           "textAlignment": "left",
           "characterSize": 20,
           "color": {
@@ -2317,7 +2317,7 @@
           "rendererType": "Quad",
           "tags": "",
           "tank": 30,
-          "textureParticleName": "space-shooter-assets/space-shooter-assets/Glow.png",
+          "textureParticleName": "assets/Glow.png",
           "type": "ParticleSystem::ParticleEmitter",
           "zoneRadius": 3,
           "variables": [],
@@ -2363,7 +2363,7 @@
           "rendererType": "Quad",
           "tags": "",
           "tank": 25,
-          "textureParticleName": "space-shooter-assets/space-shooter-assets/ExplosionTexture1.png",
+          "textureParticleName": "assets/ExplosionTexture1.png",
           "type": "ParticleSystem::ParticleEmitter",
           "zoneRadius": 3,
           "variables": [],
@@ -2429,7 +2429,7 @@
           "effects": [],
           "behaviors": [],
           "string": "Level: 1",
-          "font": "space-shooter-assets/space-shooter-assets/Kenney Future Narrow.ttf",
+          "font": "assets/Kenney Future Narrow.ttf",
           "textAlignment": "left",
           "characterSize": 30,
           "color": {
@@ -2642,7 +2642,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "space-shooter-assets/space-shooter-assets/finish_line.png",
+                      "image": "assets/finish_line.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2750,7 +2750,7 @@
                   },
                   "parameters": [
                     "",
-                    "space-shooter-assets/space-shooter-assets/soundtrack.ogg",
+                    "assets/soundtrack.ogg",
                     "1",
                     "yes",
                     "40",
@@ -3058,7 +3058,7 @@
                           },
                           "parameters": [
                             "",
-                            "space-shooter-assets/space-shooter-assets/sfx_laser.ogg",
+                            "assets/sfx_laser.ogg",
                             "",
                             "100",
                             "1"
@@ -3139,7 +3139,7 @@
                       },
                       "parameters": [
                         "",
-                        "space-shooter-assets/space-shooter-assets/sfx_shieldUp.ogg",
+                        "assets/sfx_shieldUp.ogg",
                         "",
                         "200",
                         "1"
@@ -3520,7 +3520,7 @@
                       },
                       "parameters": [
                         "",
-                        "space-shooter-assets/space-shooter-assets/damage.ogg",
+                        "assets/damage.ogg",
                         "",
                         "100",
                         "1"
@@ -3679,7 +3679,7 @@
                       },
                       "parameters": [
                         "",
-                        "space-shooter-assets/space-shooter-assets/sfx_shieldUp.ogg",
+                        "assets/sfx_shieldUp.ogg",
                         "",
                         "200",
                         "1"
@@ -4482,7 +4482,7 @@
                       },
                       "parameters": [
                         "",
-                        "space-shooter-assets/space-shooter-assets/enemy_explosion.wav",
+                        "assets/enemy_explosion.wav",
                         "",
                         "100",
                         "1"
